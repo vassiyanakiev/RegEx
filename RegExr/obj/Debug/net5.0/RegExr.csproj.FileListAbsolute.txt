@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\RegExr\bin\Debug\net5.0\RegExr.exe
+C:\Users\PC\source\repos\RegExr\bin\Debug\net5.0\RegExr.deps.json
+C:\Users\PC\source\repos\RegExr\bin\Debug\net5.0\RegExr.runtimeconfig.json
+C:\Users\PC\source\repos\RegExr\bin\Debug\net5.0\RegExr.runtimeconfig.dev.json
+C:\Users\PC\source\repos\RegExr\bin\Debug\net5.0\RegExr.dll
+C:\Users\PC\source\repos\RegExr\bin\Debug\net5.0\ref\RegExr.dll
+C:\Users\PC\source\repos\RegExr\bin\Debug\net5.0\RegExr.pdb
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.AssemblyInfo.cs
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.dll
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\ref\RegExr.dll
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.pdb
+C:\Users\PC\source\repos\RegExr\obj\Debug\net5.0\RegExr.genruntimeconfig.cache

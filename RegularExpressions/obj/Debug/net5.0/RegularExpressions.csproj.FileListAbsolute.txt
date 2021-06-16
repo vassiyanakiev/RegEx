@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RegularExpressions\bin\Debug\net5.0\RegularExpressions.exe
+C:\Users\PC\source\repos\RegularExpressions\bin\Debug\net5.0\RegularExpressions.deps.json
+C:\Users\PC\source\repos\RegularExpressions\bin\Debug\net5.0\RegularExpressions.runtimeconfig.json
+C:\Users\PC\source\repos\RegularExpressions\bin\Debug\net5.0\RegularExpressions.runtimeconfig.dev.json
+C:\Users\PC\source\repos\RegularExpressions\bin\Debug\net5.0\RegularExpressions.dll
+C:\Users\PC\source\repos\RegularExpressions\bin\Debug\net5.0\ref\RegularExpressions.dll
+C:\Users\PC\source\repos\RegularExpressions\bin\Debug\net5.0\RegularExpressions.pdb
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.dll
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\ref\RegularExpressions.dll
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.pdb
+C:\Users\PC\source\repos\RegularExpressions\obj\Debug\net5.0\RegularExpressions.genruntimeconfig.cache
